@@ -1,2 +1,2 @@
 # ObjectDetection
-Object Detection Lecture
+dogs and cats classifier 만들기 
