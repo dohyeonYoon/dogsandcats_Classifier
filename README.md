@@ -1,2 +1,2 @@
-# dogs and cats classifie
+# dogs and cats classify Algorithm
 
